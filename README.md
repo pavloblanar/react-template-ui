@@ -1,4 +1,4 @@
-![Website](https://img.shields.io/website?down_color=gray&down_message=dead&up_color=green&up_message=online&url=https%3A%2F%2Femanuelgf.github.io%2Ftemplate-react-ui%2F%23%2F)
+
 
 # Quickstart React template for website projects
 
@@ -143,10 +143,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
